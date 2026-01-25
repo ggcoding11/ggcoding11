@@ -22,7 +22,6 @@ No meu tempo livre, gosto de tocar guitarra, jogar Smash Bros e ler!
 
 ## Entre em contato comigo!
 
-[![Static Badge](https://img.shields.io/badge/Email-%23005FF9?style=for-the-badge&logo=mail.ru)](gustavogomes1108@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-gomes11/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_gustavo_gomess/)
 
