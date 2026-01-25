@@ -10,7 +10,7 @@ Meu foco de estudo atual está em front-end (React), mas ao mesmo tempo estou co
 
 No meu tempo livre, gosto de tocar guitarra, jogar Smash Bros e ler!
 
-## My stack
+## Minha stack
 
 ![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/CSS-%23663399?style=for-the-badge&logo=css&labelColor=black)
