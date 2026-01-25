@@ -25,4 +25,4 @@ No meu tempo livre, gosto de tocar guitarra, jogar Smash Bros e ler!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-gomes11/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_gustavo_gomess/)
 
-![snake gif](https://github.com/ggcoding11/ggcoding11/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ggcoding11/ggcoding11/blob/output/github-contribution-grid-snake-dark.svg)
