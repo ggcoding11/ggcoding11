@@ -4,9 +4,11 @@ Atualmente sou estudante de Engenharia de Software na Unicesumar. Procuro meu pr
 
 Tenho muito interesse em desenvolvimento web, tanto front-end (meu foco de estudo atual), quanto back-end. 
 
-Além dos estudos para a faculdade, também sempre busco aprender assuntos por fora, a fim de melhorar minhas habilidades técnicas. Minha principal fonte de aprendizado vem com os meus projetos práticos.
+Além dos estudos para a faculdade, também sempre busco aprender assuntos por fora, a fim de melhorar minhas habilidades técnicas. Minha principal fonte de aprendizado vem com os meus projetos práticos. Quanto a idiomas, falo portugês nativo e inglês intermediáro (ainda estudando).
 
 Meu foco de estudo atual está em front-end (React), mas ao mesmo tempo estou começando a me aprofundar em back-end (Java).
+
+No meu tempo livre, gosto de tocar guitarra, jogar Smash Bros e ler!
 
 ## My stack
 
@@ -20,7 +22,7 @@ Meu foco de estudo atual está em front-end (React), mas ao mesmo tempo estou co
 
 ## Entre em contato comigo!
 
-![Static Badge](https://img.shields.io/badge/Email-%23005FF9?style=for-the-badge&logo=mail.ru&link=gustavogomes1108%40gmail.com)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-gomes11/)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/_gustavo_gomess/)
+[![Static Badge](https://img.shields.io/badge/Email-%23005FF9?style=for-the-badge&logo=mail.ru)](gustavogomes1108@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-gomes11/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/_gustavo_gomess/)
 
