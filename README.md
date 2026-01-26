@@ -6,7 +6,7 @@ Tenho muito interesse em desenvolvimento web, tanto front-end (meu foco de estud
 
 Além dos estudos para a faculdade, também sempre busco aprender assuntos por fora, a fim de melhorar minhas habilidades técnicas. Minha principal fonte de aprendizado vem com os meus projetos práticos. Quanto a idiomas, falo portugês nativo e inglês intermediáro (ainda estudando).
 
-Meu foco de estudo atual está em front-end (React), mas ao mesmo tempo estou começando a me aprofundar em back-end (Java).
+Meu foco de estudo atual está em front-end (principalmente React), mas desejo começar a me aprofundar em back-end futuramente (Java).
 
 No meu tempo livre, gosto de tocar guitarra, jogar Smash Bros e ler!
 
@@ -17,8 +17,6 @@ No meu tempo livre, gosto de tocar guitarra, jogar Smash Bros e ler!
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&labelColor=black)
-![Static Badge](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&labelColor=black)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&labelColor=black)
 
 ## Entre em contato comigo!
 
