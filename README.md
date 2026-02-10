@@ -4,7 +4,7 @@ Atualmente sou estudante de Engenharia de Software na Unicesumar. Procuro meu pr
 
 Tenho muito interesse em desenvolvimento web, tanto front-end (meu foco de estudo atual), quanto back-end. 
 
-Se quiser acessar aos projetos estou desenvolvendo no momento, pode ver tudo no meu Notion: [LINK PRO NOTION](https://www.notion.so/Projetos-Codigos-1dd78dcd730a8044890cd44c3c09983a)
+Se quiser acessar aos projetos estou desenvolvendo no momento, pode ver tudo no meu Notion: [LINK](https://www.notion.so/Projetos-Codigos-1dd78dcd730a8044890cd44c3c09983a)
 
 Além dos estudos para a faculdade, também sempre busco aprender assuntos por fora, a fim de melhorar minhas habilidades técnicas. Minha principal fonte de aprendizado vem com os meus projetos práticos. Quanto a idiomas, falo portugês nativo e inglês intermediáro (ainda estudando).
 
