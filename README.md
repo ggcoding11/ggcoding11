@@ -2,7 +2,7 @@
 
 Atualmente sou estudante de Engenharia de Software na Unicesumar. Procuro meu primeiro trabalho na área de desenvolvimento, principalmente estágio. 
 
-Tenho muito interesse em desenvolvimento web, tanto front-end (meu foco de estudo atual), quanto back-end. 
+Tenho muito interesse em desenvolvimento web, estou me especializando tanto em Front-end (atualmente React) e Back-end (Java com Spring).
 
 **Se quiser saber quais projetos eu estou desenvolvendo no momento, pode ver tudo no meu Notion:** [LINK](https://www.notion.so/Projetos-Codigos-1dd78dcd730a8044890cd44c3c09983a)
 
