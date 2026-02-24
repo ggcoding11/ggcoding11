@@ -8,8 +8,6 @@ Tenho muito interesse em desenvolvimento web, estou me especializando tanto em F
 
 Além dos estudos para a faculdade, também sempre busco aprender assuntos por fora, a fim de melhorar minhas habilidades técnicas. Minha principal fonte de aprendizado vem com os meus projetos práticos. Quanto a idiomas, falo portugês nativo e inglês intermediáro (ainda estudando).
 
-Meu foco de estudo atual está em front-end (principalmente React), mas desejo começar a me aprofundar em back-end futuramente (Java).
-
 No meu tempo livre, gosto de tocar guitarra, jogar Smash Bros e ler!
 
 ## Minha stack
