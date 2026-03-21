@@ -1,8 +1,8 @@
 ## 👋 Eai, como vai?
 
-Atualmente sou estudante de Engenharia de Software na Unicesumar. Procuro meu primeiro trabalho na área de desenvolvimento, principalmente estágio. 
+Atualmente sou estudante de Engenharia de Software na Unicesumar e estagiário como Analista Programador na AMTECH.
 
-Tenho muito interesse em desenvolvimento web, estou me especializando tanto em Front-end (atualmente React) e Back-end (Java com Spring, ainda iniciando).
+Tenho muito interesse em desenvolvimento web, estou me especializando tanto em Front-end (atualmente React) e Back-end (Java com Spring).
 
 **Se quiser saber quais projetos eu estou desenvolvendo no momento, pode ver tudo no meu Notion:** [LINK](https://www.notion.so/Projetos-Codigos-1dd78dcd730a8044890cd44c3c09983a)
 
@@ -17,6 +17,8 @@ No meu tempo livre, gosto de tocar guitarra, jogar Smash Bros e ler!
 ![Static Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Bootstrap-%237952B3?style=for-the-badge&logo=bootstrap&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge\&logo=openjdk\&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Spring_Boot-%236DB33F?style=for-the-badge\&logo=springboot\&labelColor=black)
 
 ## Entre em contato comigo!
 
